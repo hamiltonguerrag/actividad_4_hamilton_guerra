@@ -1,0 +1,4 @@
+SELECT NAME
+FROM countries
+WHERE NAME 
+LIKE '%e%'

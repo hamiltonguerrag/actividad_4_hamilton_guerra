@@ -1,0 +1,2 @@
+SELECT NAME 
+FROM countries
